@@ -4,10 +4,16 @@ ressources ctf et sysadmin
 une liste de ressource pour s'initier aux ctf et à la cybersécurité en général.
 
 Site pour s'initier :
-rootme
-tryhackme
-hackthebox
 
+rootme : plateforme historique française qui offre de nombreuses énigmes dans tous les domaines.
+  https://www.root-me.org/
+
+tryhackme : site parfait pour débuter avec un parcours spécial débutant très bien fait.
+  https://tryhackme.com/
+
+hackthebox : de nombreuses machines de tout niveau et de nombreux parcours de cybersécurité.
+  https://www.hackthebox.com/
+  
 Repositories :
 
 Atelier Ssh :
